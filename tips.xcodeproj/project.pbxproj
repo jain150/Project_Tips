@@ -14,6 +14,7 @@
 		478CDBF81C1BCFA1004B24D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 478CDBF61C1BCFA1004B24D6 /* LaunchScreen.storyboard */; };
 		478CDC031C1BCFA2004B24D6 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478CDC021C1BCFA2004B24D6 /* tipsTests.swift */; };
 		478CDC0E1C1BCFA2004B24D6 /* tipsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478CDC0D1C1BCFA2004B24D6 /* tipsUITests.swift */; };
+		47B12A4F1C1DDB2600631728 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B12A4E1C1DDB2600631728 /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		478CDC091C1BCFA2004B24D6 /* tipsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		478CDC0D1C1BCFA2004B24D6 /* tipsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsUITests.swift; sourceTree = "<group>"; };
 		478CDC0F1C1BCFA2004B24D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47B12A4E1C1DDB2600631728 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				478CDBED1C1BCFA1004B24D6 /* AppDelegate.swift */,
+				47B12A4E1C1DDB2600631728 /* SettingsViewController.swift */,
 				478CDBEF1C1BCFA1004B24D6 /* ViewController.swift */,
 				478CDBF11C1BCFA1004B24D6 /* Main.storyboard */,
 				478CDBF41C1BCFA1004B24D6 /* Assets.xcassets */,
@@ -260,6 +263,7 @@
 			files = (
 				478CDBF01C1BCFA1004B24D6 /* ViewController.swift in Sources */,
 				478CDBEE1C1BCFA1004B24D6 /* AppDelegate.swift in Sources */,
+				47B12A4F1C1DDB2600631728 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,6 +488,7 @@
 				478CDC141C1BCFA2004B24D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		478CDC151C1BCFA2004B24D6 /* Build configuration list for PBXNativeTarget "tipsTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +497,7 @@
 				478CDC171C1BCFA2004B24D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		478CDC181C1BCFA2004B24D6 /* Build configuration list for PBXNativeTarget "tipsUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +506,7 @@
 				478CDC1A1C1BCFA2004B24D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

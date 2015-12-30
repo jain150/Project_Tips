@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tips/ViewController.swift"
+            timestampString = "472366084.440522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.tipControl.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISegmentedControl&gt;"
+                  moduleName = "tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arnav/Desktop/tips/tips/ViewController.swift"
+                  timestampString = "473153066.773845"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.tipControl.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISegmentedControl&gt;"
+                  moduleName = "tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arnav/Desktop/tips/tips/ViewController.swift"
+                  timestampString = "473153066.773999"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.init (tips.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; tips.ViewController"
+                  moduleName = "tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arnav/Desktop/tips/tips/ViewController.swift"
+                  timestampString = "473153066.77415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tips.ViewController.init (tips.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;tips.ViewController&gt;"
+                  moduleName = "tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Arnav/Desktop/tips/tips/ViewController.swift"
+                  timestampString = "473153066.774305"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
